@@ -1,4 +1,6 @@
-<img width="1918" height="1078" alt="frida 1" src="https://github.com/user-attachments/assets/1820b872-5f24-4667-87f3-8a9dd572fa4e" /># LAB-7-Analyse-Dynamique-Mobile-avec-MobSF
+# LAB-7-Analyse-Dynamique-Mobile-avec-MobSF
+
+<img width="1918" height="1078" alt="frida 1" src="https://github.com/user-attachments/assets/1820b872-5f24-4667-87f3-8a9dd572fa4e" />
 
 ## Lancer Mobsf avec Docker :
 
@@ -22,7 +24,7 @@
 
 ## La journalisation des logs :
 
-<img width="1878" height="1012" alt="mdos" src="https://github.com/user-attachments/assets/83c0eafd-fc40-4fc1-aada-ff266abeb647" />
+![test](https://github.com/user-attachments/assets/b14699aa-c497-47ff-9832-4dd581efe885)
 
 ## Test :
 
