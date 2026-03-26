@@ -24,11 +24,15 @@
 
 ## La journalisation des logs :
 
-![test](https://github.com/user-attachments/assets/b14699aa-c497-47ff-9832-4dd581efe885)
+<img width="1878" height="1012" alt="mdos" src="https://github.com/user-attachments/assets/cac2ad57-294c-4a2b-b8a8-7e39ef72d8c5" />
 
 ## Test :
 
-<img width="1878" height="1012" alt="mdos" src="https://github.com/user-attachments/assets/cac2ad57-294c-4a2b-b8a8-7e39ef72d8c5" />
+![test](https://github.com/user-attachments/assets/239168f1-7c88-4cc7-adf9-181685f44387)
+
+
+
+
 
 
 
